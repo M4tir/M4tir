@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=m4tir&show_icons=true&icon_color=CE1D2D&hide_title=true&theme=nightowl" />
+
 <!--
 **M4tir/M4tir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
