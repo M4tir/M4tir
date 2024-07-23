@@ -11,6 +11,7 @@
 - 💞️ 感谢Github开源社区，感谢JetBrains对 `Open source code` 做出的贡献
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,java,spring,idea,go,aws,cloudflare,gcp,linux,raspberrypi,docker,kubernetes,bash,php,html,js,androidstudio,cpp,c,git,githubactions,md,mysql,redis,arduino,ps,pr,twitter)](https://skillicons.dev)
+<img src="https://www.eyuyan.com/images/e.ico" alt="" />
 
 # My Future
 
